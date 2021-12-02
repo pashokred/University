@@ -6,7 +6,7 @@ namespace Crypto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Call all methods to check if right
         }
     }
 }
