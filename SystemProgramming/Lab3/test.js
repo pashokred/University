@@ -1,7 +1,7 @@
 /* sdasd
 asdasdaasdsadasd */
 
-// Man what?
+// Hey what?
 'use strict';
 
 const a = 1;

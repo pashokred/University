@@ -152,7 +152,6 @@ public class Lexer {
                 }
             } else
                 return new stopLoop(true, i);
-            ;
 
         } else
             // Closing comment

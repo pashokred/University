@@ -1,0 +1,16 @@
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/LongArithmetic
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/LongArithmetic.deps.json
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/LongArithmetic.runtimeconfig.json
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/LongArithmetic.runtimeconfig.dev.json
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/LongArithmetic.dll
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/ref/LongArithmetic.dll
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/bin/Debug/net5.0/LongArithmetic.pdb
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.csproj.AssemblyReference.cache
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.AssemblyInfoInputs.cache
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.AssemblyInfo.cs
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.csproj.CoreCompileInputs.cache
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.dll
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/ref/LongArithmetic.dll
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.pdb
+/home/pashok/Development/University/Cryptography/LongArithmetic/LongArithmetic/obj/Debug/net5.0/LongArithmetic.genruntimeconfig.cache
