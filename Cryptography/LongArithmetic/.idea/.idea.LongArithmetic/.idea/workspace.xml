@@ -6,64 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="784d4c07-1043-4778-a3b2-0e7b48a3945d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/Crypto.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/CryptoAlgorithms.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/EllipticCurve.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Crypto.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Crypto.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Crypto.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Debug/net5.0/Crypto.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Debug/net5.0/Crypto.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Debug/net5.0/Crypto.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Debug/net5.0/Crypto.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/Debug/net5.0/Crypto.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crypto/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/LongArithmetic.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/LongNum.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/LongNumHelper.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/LongArithmetic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/LongArithmetic.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/LongArithmetic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/LongArithmetic.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/LongArithmetic.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/LongArithmetic.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/bin/Debug/net5.0/ref/LongArithmetic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/LongArithmetic.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/apphost" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/Debug/net5.0/ref/LongArithmetic.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/LongArithmetic.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/LongArithmetic.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/LongArithmetic.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LongArithmetic/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SystemProgramming/Lab3/src/com/company/Lexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SystemProgramming/Lab3/src/com/company/Lexer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../SystemProgramming/Lab3/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../SystemProgramming/Lab3/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/sonarIssues.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LongArithmetic/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,8 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1638018249091</updated>
       <workItem from="1638018255510" duration="4680000" />
-      <workItem from="1638397077083" duration="3339000" />
+      <workItem from="1638397077083" duration="4233000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete labs">
+      <created>1638445853489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638445853489</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,5 +114,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Complete labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete labs" />
   </component>
 </project>
